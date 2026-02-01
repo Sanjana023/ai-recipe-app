@@ -6,7 +6,7 @@ Servd is a full-stack AI-powered recipe platform that helps users turn everyday 
 
 ## 🚀 Overview
 
-Serve allows users to scan images of their pantry items using AI and instantly receive personalized recipe recommendations based on available ingredients, mood, and cuisine preferences. The platform also offers an intelligent AI chef that can search for any recipe in the world.
+Servd allows users to scan images of their pantry items using AI and instantly receive personalized recipe recommendations based on available ingredients, mood, and cuisine preferences. The platform also offers an intelligent AI chef that can search for any recipe in the world.
 
 This project is designed as a **production-ready, scalable application** showcasing real-world AI integration, modern UI/UX, and secure backend architecture.
 
