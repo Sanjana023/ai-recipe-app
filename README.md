@@ -73,7 +73,7 @@ Each recipe includes:
 - Neon (PostgreSQL database)
 - Clerk (Authentication & user management)
 - Arcjet (Bot protection & API rate limiting)
-- AI services for:
+- AI (gemini-flashlite-2.5 API) services for:
   - Image recognition
   - Recipe generation
   - Ingredient substitution
