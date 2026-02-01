@@ -1,6 +1,6 @@
-# 🍳 Serve — AI Powered Recipe Platform
+# 🍳 Servd — AI Powered Recipe Platform
 
-Serve is a full-stack AI-powered recipe platform that helps users turn everyday pantry items into delicious, customized recipes using artificial intelligence.
+Servd is a full-stack AI-powered recipe platform that helps users turn everyday pantry items into delicious, customized recipes using artificial intelligence.
 
 ---
 
